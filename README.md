@@ -1,4 +1,4 @@
-| [Controlling Color](controlling-color.md) | [critique by design](critique-by-design.md) | [Final project I](final-project-part-one.md)| [final project II](final-project-part-three.md) | [final project III](https://github.com/kripaj98/tswd-portfolio-templates/blob/6ec7d4577695e5cc7ca4d7bb6e0f2024df1ae568/final-project-part-three.md) |
+| [Controlling Color](controlling-color.md) | [critique by design](critique-by-design.md) | [Final project I](final-project-part-one.md)| [final project II](final-project-part-three.md) | [final project III](final-project-part-three.md) |
 
 
 # About me
