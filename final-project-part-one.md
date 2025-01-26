@@ -1,4 +1,4 @@
-| [home page](README.md) | [critique by design](critique-by-design.md) | [Controlling Color](controlling-color)| [final project II](final-project-part-three.md) | [final project III](final-project-part-three.md) |
+| [home page](README.md) | [critique by design](critique-by-design.md) | [General Government Debt](controlling-color)| [final project II](final-project-part-three.md) | [final project III](final-project-part-three.md) |
 
 
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
