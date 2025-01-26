@@ -15,7 +15,7 @@ All the things - obviously.
 # Portfolio
 I am still working on designing a structure for this part and it would be further enhanced as we progress through the course. Here is a basic list:
 
-## Assignment 1: [General Government Debt](controlling-color)
+## Assignment 1: [General Government Debt](controlling-color.md)
 In progress...
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
