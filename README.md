@@ -1,4 +1,4 @@
-| [Controlling Color](controlling-color.md) | [critique by design](critique-by-design.md) | [Final project I](final-project-part-one.md)| [final project II](final-project-part-three.md) | [final project III](final-project-part-three.md) |
+| [General Government Debt](controlling-color.md) | [critique by design](critique-by-design.md) | [Final project I](final-project-part-one.md)| [final project II](final-project-part-three.md) | [final project III](final-project-part-three.md) |
 
 
 # About me
@@ -15,7 +15,7 @@ All the things - obviously.
 # Portfolio
 I am still working on designing a structure for this part and it would be further enhanced as we progress through the course. Here is a basic list:
 
-## Assignment 1: [Controlling Color](controlling-color)
+## Assignment 1: [General Government Debt](controlling-color)
 In progress...
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
