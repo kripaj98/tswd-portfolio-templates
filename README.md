@@ -18,7 +18,7 @@ I am still working on designing a structure for this part and it would be furthe
 ## Assignment 1: [General Government Debt](controlling-color.md)
 In progress...
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 In progress... 
 
 ## Final project
