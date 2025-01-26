@@ -1,4 +1,4 @@
-| [home page](README.md) | [critique by design](critique-by-design.md) | [Controlling Color](controlling-color)| [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) |
+| [home page](README.md) | [critique by design](critique-by-design.md) | [General Government Debt](controlling-color)| [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) |
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
