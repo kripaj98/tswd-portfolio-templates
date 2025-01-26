@@ -1,4 +1,4 @@
-| [home page](README.md) | [critique by design](critique-by-design.md) | [Controlling Color](controlling-color) | [Final project I](final-project-part-one.md)| [final project III](final-project-part-three.md) |
+| [home page](README.md) | [critique by design](critique-by-design.md) | [General Government Debt](controlling-color) | [Final project I](final-project-part-one.md)| [final project III](final-project-part-three.md) |
 
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
