@@ -97,9 +97,7 @@ Text here...
 For completing my final project, I plan on using Shorthand for creating an interactive storytelling experience combined with Tableau for data visualization. Shorthand will help me craft an engaging, multimedia narrative starting with the introduction, focusing on the emotional journey through memorials, while Tableau will be used to display the analyzed data, showing how different architectural elements in memorials correlate with emotional responses. I might also use gis, to map memorial spots across US. By integrating these tools, I will create an interactive experience that allows viewers to explore both the design elements of memorials and the emotional impact they evoke. This method would align with an interactive project with pop ups of user stories and elements to navigate an emotional journey while provides a user-friendly way to understand complex emotional and architectural relationships.
 
 Focus points:
-A scroll down journey focusing on: 
-
-With interactive visualizations and real-world data, we will map these architectural elements to human emotions, bringing to life the psychological impact of memorial spaces in a way that helps to engage.
+A scroll down journey with interactive visualizations and real-world data, we will map these architectural elements to human emotions, bringing to life the psychological impact of memorial spaces in a way that helps to engage.
 
 _1. Interactive data visualizations that show the emotional responses to architectural elements across different memorials._
 
