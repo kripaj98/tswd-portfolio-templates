@@ -53,17 +53,17 @@ Exploration of the emotions people experience when visiting memorials: grief, ca
 
 Categorising them into 3 categories of architecture; color, scale and proportion, elements and materiality and drawing connections with the emotions evoked. For eg.:
 
-   ### _1. Space and Scale: 
-   How the size of a memorial can evoke feelings of awe, humility, or isolation. Like the large scale of the Vietnam Veterans Memorial creates a sense of reverence and solemnity._
+   ### 1. Space and Scale: 
+   _How the size of a memorial can evoke feelings of awe, humility, or isolation. Like the large scale of the Vietnam Veterans Memorial creates a sense of reverence and solemnity._
    
-   ### _2. Materiality: 
-   The emotional impact of materials like stone, metal, and glass. The use of polished black granite in the Vietnam Memorial reflects the names of the fallen, inviting personal reflection._
+   ### 2. Materiality: 
+   _The emotional impact of materials like stone, metal, and glass. The use of polished black granite in the Vietnam Memorial reflects the names of the fallen, inviting personal reflection._
    
-   ### _3. Light and Shadow:
-   How natural and artificial light are used to create a mood or emphasize certain features. The way light filters through the canopy of trees at the 9/11 Memorial creates an atmosphere of peace amidst sorrow._
+   ### 3. Light and Shadow:
+   _How natural and artificial light are used to create a mood or emphasize certain features. The way light filters through the canopy of trees at the 9/11 Memorial creates an atmosphere of peace amidst sorrow._
    
-   ### _4. Symbolism:
-   The use of symbolic shapes and forms, such as circles, walls, or voids, to represent ideas like eternity, loss, or the absence of life. Example: The sunken design of the 9/11 Memorial’s reflecting pools symbolizes the void left by the tragedy, and the absence of life lost._
+   ### 4. Symbolism:
+   _The use of symbolic shapes and forms, such as circles, walls, or voids, to represent ideas like eternity, loss, or the absence of life. Example: The sunken design of the 9/11 Memorial’s reflecting pools symbolizes the void left by the tragedy, and the absence of life lost._
 
 ## User stories and personal connections:
 Personal narratives from individuals who have experienced profound emotional connections to memorial sites.
