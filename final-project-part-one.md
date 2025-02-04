@@ -36,6 +36,8 @@ The presentation will incorporate visual elements, such as photographs of memori
 
 # Project Structure:
 
+<img src="Emotional arc.jpg" width="200"/>
+
 The main idea would be to leverage visualisation and data to take one experiencing this narrative, through a series of shifting emotional arc along the journey of navigating this argument.
 
 ## Introduction to Memorial & Emotions:
