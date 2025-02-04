@@ -5,13 +5,34 @@
 # Outline
 
 # The Idea
-Using data visualization to illustrate how specific architectural elements, such as material, scale, and spatial elements, provoke emotional responses in visitors to memorial sites.
+Using data visualization to illustrate how specific architectural elements, such as material, scale, and spatial elements, provoke emotional responses in visitors to memorial spatial designs.
 
-This project delves into how memorials evoke deep emotional responses, fostering healing and collective memory. Through exploring historical and modern memorials, we aim to show their profound impact on grief, empathy, and human connection. 
+# The Narrative
+Imagine walking into a memorial. The moment you step inside, something shifts—perhaps a sense of solemnity washes over you, or an unexpected feeling of tranquility takes hold. But why? What is it about these spaces that stir such deep, immediate emotions?
+
+Memorial spaces are more than just stone and steel; they are silent storytellers, carefully designed to evoke memories, grief, resilience, or hope. Every color, material, scale, and spatial element is a deliberate choice, shaping the way visitors experience and interact with the space.
+
+This project unravels the hidden language of single type of public architecture, the memorial architecture through data visualization, showing how design choices, whether the sheer black granite of the Vietnam Veterans Memorial, the towering concrete blocks of Berlin’s Holocaust Memorial, or the infinite pools of the 9/11 Memorial—provoke powerful emotional responses.
+
+In the end, this project is about more than architecture. It’s about how we remember, how we feel, and how spaces can shape human emotion in ways we don’t always recognize, but always experience.
+
+# Call to Action & Stakeholders Involved
+Next time you visit a memorial, pause and take in the space...not just its form, but the emotions it stirs. Notice how the materials, colors, and elements shape your experience, guiding your thoughts and feelings. Ask yourself why is this the way it is, why is there a huge slanting wall here? Being said that this study would be valuable in the following manner:
+1. Architects & Urban Designers : To create more emotionally resonant and impactful spaces.
+2. Historians & Cultural Institutions – To understand how memorial design shapes collective memory.
+3. Psychologists & Researchers – To analyze the relationship between space and human emotion.
+4. Public & Policy Makers – To foster meaningful public spaces that engage visitors emotionally.
+5. Visitor - Retrospecting their behaviour and reaction patterns while moving through spaces, while understanding spatial attributes could also be a reason for their positive or negative mood.
+
+_Actionable Takeaways: By uncovering the psychological impact of memorial design through data, this project provides a framework or rather a trigger for designing future spaces that evoke the intended emotions, whether it be grief, reflection, or hope. Having awareness of these architectural principles being more than functionality, and being critical with focus on connection of spaces with human emotions._
+
+
  
 Text here...
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+ describe what you hope to achieve.  
+ how you anticipate your story unfolding.  
+ Story Arc from the in-class exercise along with your user stories 
 
 Text here...
 
@@ -42,4 +63,4 @@ Text here...
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_I used Chatgpt and grammarly to help me reframe and concise my writing._
