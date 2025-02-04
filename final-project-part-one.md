@@ -102,11 +102,15 @@ A scroll down journey focusing on:
 With interactive visualizations and real-world data, we will map these architectural elements to human emotions, bringing to life the psychological impact of memorial spaces in a way that helps to engage.
 
 _1. Interactive data visualizations that show the emotional responses to architectural elements across different memorials._
-_2. Story-driven content that guides the user through the architectural analysis, explaining how materials, scale, and color influence emotions.
-_3. The data visualizations in Tableau will display correlations, such as:
+
+_2. Story-driven content that guides the user through the architectural analysis, explaining how materials, scale, and color influence emotions._
+
+_3. The data visualizations in Tableau will display correlations, such as:_
+
     > The size of a memorial and its correlation to visitor feelings of awe.
     > The emotional impact of reflective surfaces and the colors used in memorial designs.
     > Comparison of memorials by emotional responses.
+    
 _4. Lastly picking some case studies to develop an interactive emotion mapping route using mix media of architecture plans of spaces, sketched over emotion analysis through customer experience overlapped as a stop motion video._
 
 In the end, this project is about more than architecture. It’s about how we remember, how we feel, and how spaces can shape human emotion in ways we don’t always recognize but always experience.
