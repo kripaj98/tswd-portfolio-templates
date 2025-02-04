@@ -19,10 +19,10 @@ In the end, this project is about more than architecture. It’s about how we re
 # Call to Action & Stakeholders Involved
 
 Next time you visit a memorial, pause and take in the space...not just its form, but the emotions it stirs. Notice how the materials, colors, and elements guide your thoughts and feelings. Ask yourself why is this the way it is, why is there a huge slanting wall here? Being said that this study would be valuable in the following manner:
-1. Architects & Urban Designers : To create more emotionally resonant and impactful spaces.
-2. Historians & Cultural Institutions – To understand how memorial design shapes collective memory.
-3. Psychologists & Researchers – To analyze the relationship between space and human emotion.
-4. Public & Policy Makers – To foster meaningful public spaces that engage visitors emotionally.
+1. Architects & Urban Designers: To create more emotionally resonant and impactful spaces.
+2. Historians & Cultural Institutions: To understand how memorial design shapes collective memory.
+3. Psychologists & Researchers: To analyze the relationship between space and human emotion.
+4. Public & Policy Makers: To foster meaningful public spaces that engage visitors emotionally.
 5. Visitor - Retrospecting their behaviour and reaction patterns while moving through spaces, while understanding spatial attributes as driving forces of their positive or negative mood.
 
 _Actionable Takeaways: By uncovering the psychological impact of memorial design through quantitative and qualitative data gathered through research papers, this project provides a framework or rather a trigger for designing elements within future spaces that evoke the intended emotions, whether it be grief, reflection, or hope. Having awareness of these architectural principles being more than functionality, and being critical about the connection of spaces with human emotions._
