@@ -74,7 +74,7 @@ Personal narratives from individuals who have experienced profound emotional con
 A conclusive series of a chart highlighting specific architectural elements intentionally designed to evoke particular emotions, more of as a basic guideline for designing for a memorial.
 
 
-## Initial sketches
+# Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 Text here...
