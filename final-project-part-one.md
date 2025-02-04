@@ -93,12 +93,24 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+For completing my final project, I plan on using Shorthand for creating an interactive storytelling experience combined with Tableau for data visualization. Shorthand will help me craft an engaging, multimedia narrative starting with the introduction, focusing on the emotional journey through memorials, while Tableau will be used to display the analyzed data, showing how different architectural elements in memorials correlate with emotional responses. I might also use gis, to map memorial spots across US. By integrating these tools, I will create an interactive experience that allows viewers to explore both the design elements of memorials and the emotional impact they evoke. This method would align with an interactive project with pop ups of user stories and elements to navigate an emotional journey while provides a user-friendly way to understand complex emotional and architectural relationships.
 
-## References
-_List any references you used here._
+Focus points:
+A scroll down journey focusing on: 
+
+With interactive visualizations and real-world data, we will map these architectural elements to human emotions, bringing to life the psychological impact of memorial spaces in a way that helps to engage.
+
+_1. Interactive data visualizations that show the emotional responses to architectural elements across different memorials._
+_2. Story-driven content that guides the user through the architectural analysis, explaining how materials, scale, and color influence emotions.
+_3. The data visualizations in Tableau will display correlations, such as:
+    > The size of a memorial and its correlation to visitor feelings of awe.
+    > The emotional impact of reflective surfaces and the colors used in memorial designs.
+    > Comparison of memorials by emotional responses.
+_4. Lastly picking some case studies to develop an interactive emotion mapping route using mix media of architecture plans of spaces, sketched over emotion analysis through customer experience overlapped as a stop motion video._
+
+In the end, this project is about more than architecture. It’s about how we remember, how we feel, and how spaces can shape human emotion in ways we don’t always recognize but always experience.
+
 
 ## AI acknowledgements
 _I used Chatgpt and grammarly to help me reframe and concise my writing._
