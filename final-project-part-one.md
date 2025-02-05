@@ -86,29 +86,37 @@ I plan on leveraging publicly available data sources that provide information on
 
 To understand the physical and symbolic characteristics of memorials, I will use detailed architectural analyses and design documentation from the following sources:
 
-Data Example: Descriptions of spatial arrangements and symbolic material use (e.g., reflective surfaces symbolizing introspection)._source: https://www.forwardpathway.us/memorial-architecture-emotional-design-and-social-memory-intertwined_
+Data Example: Descriptions of spatial arrangements and symbolic material use (e.g., reflective surfaces symbolizing introspection).
+   _source: https://www.forwardpathway.us/memorial-architecture-emotional-design-and-social-memory-intertwined_
 
-Data Example: Case studies on visitor flow patterns in memorials and their link to emotional immersion._source: https://www.academia.edu/14836368/Memorials_as_Spaces_of_Engagement_Design_Use_and_Meaning_
+Data Example: Case studies on visitor flow patterns in memorials and their link to emotional immersion.
+   _source: https://www.academia.edu/14836368/Memorials_as_Spaces_of_Engagement_Design_Use_and_Meaning_
 
-Data Example: Specific measurements of material finishes and lighting techniques for iconic memorials like the Holocaust Memorial._source: https://www.scientific.net/AMM.174-177.1739_
+Data Example: Specific measurements of material finishes and lighting techniques for iconic memorials like the Holocaust Memorial.
+   _source: https://www.scientific.net/AMM.174-177.1739_
 
 ### 2. Visitor Experience and Emotional Responses:
 
 Understanding visitor emotions is crucial to bridging the gap between design and its psychological effects. The following sources will be used:
 
-Data Example: Emotional responses associated with cool colors (e.g., blue for calmness) and warm tones (e.g., red for grief or anger)._source:([Dataset](https://drive.google.com/drive/folders/18XykR_IyoEh9t8LJveS367n34xiVEtGU?usp=drive_link))_
+Data Example: Emotional responses associated with cool colors (e.g., blue for calmness) and warm tones (e.g., red for grief or anger).
+   _source:([Dataset](https://drive.google.com/drive/folders/18XykR_IyoEh9t8LJveS367n34xiVEtGU?usp=drive_link))_
 
-Data Example: Survey-based data correlating emotional intensity (e.g., awe, sadness) with architectural dimensions (e.g., heights, enclosed spaces)._source: https://pmc.ncbi.nlm.nih.gov/articles/PMC8004070/#notes5_
+Data Example: Survey-based data correlating emotional intensity (e.g., awe, sadness) with architectural dimensions (e.g., heights, enclosed spaces).
+   _source: https://pmc.ncbi.nlm.nih.gov/articles/PMC8004070/#notes5_
 
-Data Example: Emotional response datasets linked to angular vs. curved designs in memorials._source: https://www.sciencedirect.com/science/article/pii/S0272494422000470_
+Data Example: Emotional response datasets linked to angular vs. curved designs in memorials.
+   _source: https://www.sciencedirect.com/science/article/pii/S0272494422000470_
 
 ### 3. Integrating Design and Emotional Analysis:
 
 To bridge the architectural features with visitor emotions, I will rely on qualitative analysis and synthesis of patterns:
 
-Data Example: Visitor feedback on textures (e.g., rough stone vs. smooth reflective surfaces) and their emotional impact._source: https://www.academia.edu/14836368/Memorials_as_Spaces_of_Engagement_Design_Use_and_Meaning_
+Data Example: Visitor feedback on textures (e.g., rough stone vs. smooth reflective surfaces) and their emotional impact.
+   _source: https://www.academia.edu/14836368/Memorials_as_Spaces_of_Engagement_Design_Use_and_Meaning_
 
-Data Example: Pairing of color tones (e.g., black granite vs. translucent glass) with emotional descriptors like “serenity,” “grief,” or “introspection.”_source: https://www.mdpi.com/1660-4601/19/11/6711 | https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1423466/full_
+Data Example: Pairing of color tones (e.g., black granite vs. translucent glass) with emotional descriptors like “serenity,” “grief,” or “introspection.”
+   _source: https://www.mdpi.com/1660-4601/19/11/6711 | https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1423466/full_
 
 I have created a sample data set which could help visualise how specific design elements contribute to the emotional impact of memorials. _([Sample dataset](https://docs.google.com/spreadsheets/d/1xGp8JLpCRNKH2Rkh_LOQaMlvzpF_NnmV/edit?usp=drive_link&ouid=113244834183528493745&rtpof=true&sd=true))_
 
