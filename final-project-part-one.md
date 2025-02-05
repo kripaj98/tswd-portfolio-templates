@@ -110,7 +110,7 @@ Data Example: Visitor feedback on textures (e.g., rough stone vs. smooth reflect
 
 Data Example: Pairing of color tones (e.g., black granite vs. translucent glass) with emotional descriptors like “serenity,” “grief,” or “introspection.”_source: https://www.mdpi.com/1660-4601/19/11/6711 | https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1423466/full_
 
-I have created a sample data set
+I have created a sample data set(wip) [sample data](memorial_architecture_data set 1.xlsx)
 
 
 
