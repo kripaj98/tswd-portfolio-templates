@@ -105,6 +105,9 @@ Water-reflective elements (e.g., 9/11 Memorial) induce serenity & remembrance
 _Fig3.1. Heatmap showing how different materials correlate with emotional responses_
 <img src="sample heat map.png" width="800"/>
 
+_Fig3.2. Heatmap showing how different materials correlate with emotional responses_
+<img src="Heat map alt.jpg" width="800"/>
+
 
 
 4. Emotion Map: Navigating the Sentiments of Memorial Pathways
