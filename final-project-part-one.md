@@ -77,7 +77,7 @@ A conclusive series of a chart highlighting specific architectural elements inte
 # Initial sketches
 Data Visualizations & Their Stories 
 
-1. Geospatial Map: Global Memorials & Emotional Impact
+> Geospatial Map: Global Memorials & Emotional Impact
 
 Think of a world map plotting memorials, color-coded by their dominant emotional response.
 This highlights regional differences in memorial design while giving an introduction to dominant emotions evoked.
@@ -87,7 +87,7 @@ _Fig1. Interactive world map with emotional classifications_
 
 
 
-2. Word Cloud: Common Emotional Words in Visitor Testimonials
+> Word Cloud: Common Emotional Words in Visitor Testimonials
 
 Analyzing visitor testimonials reveals frequently used emotional words like “grief,” “reflection,” “overwhelming,” “peaceful”. The scale & proportion of words matched with the color associated helps understand the emotion hierarchy visitors have felt while navigating these spaces, helping establish a direct link between architecture and human emotion.
 
@@ -96,7 +96,7 @@ _Fig2. Word cloud of visitor emotional keywords_
 
 
 
-3. Heatmap: Material Type & Emotional Response Correlation
+> Heatmap: Material Type & Emotional Response Correlation
 
 Stone & metal elements (e.g., Vietnam Veterans Memorial) tend to evoke reflection & honor.
 Concrete structures (e.g., Holocaust Memorial) often create unease & solemnity.
@@ -110,7 +110,7 @@ _Fig3.2. Heatmap showing how different materials correlate with emotional respon
 
 
 
-4. Emotion Map: Navigating the Sentiments of Memorial Pathways
+> Emotion Map: Navigating the Sentiments of Memorial Pathways
 
 An interactive map guides users through an emotional journey, visualizing patterns of emotions (e.g., peace, grief, awe) along memorial routes. Hover effects reveal overlays of architectural plans and key features like reflecting pools or martyr walls
 
@@ -119,7 +119,7 @@ __Fig4. Interactive Overlaid Map of Emotional Patterns Across Memorial Routes_
 
 
 
-5. Narrative Comic: Exploring Emotional Spaces in Memorial Design
+> Narrative Comic: Exploring Emotional Spaces in Memorial Design
 
 An idea for the case study, where key architectural elements and spaces within a specific memorial (e.g., water pools, towering structures, or engraved walls) is told through the visitor narrative. By connecting these physical features to the emotional journey of visitors, the sketch showcases how the interplay of materials and spatial design shapes reflection, healing, or peace.
 
