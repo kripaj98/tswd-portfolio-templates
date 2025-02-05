@@ -92,7 +92,7 @@ _Fig1. Interactive world map with emotional classifications_
 Analyzing visitor testimonials reveals frequently used emotional words like “grief,” “reflection,” “overwhelming,” “peaceful”. The scale & proportion of words matched with the color associated helps understand the emotion hierarchy visitors have felt while navigating these spaces, helping establish a direct link between architecture and human emotion.
 
 _Fig2. Word cloud of visitor emotional keywords_
-<img src="word cloud.jpg" width="800"/>
+<img src="word cloud.jpg" width="500"/>
 
 
 
@@ -103,10 +103,10 @@ Concrete structures (e.g., Holocaust Memorial) often create unease & solemnity.
 Water-reflective elements (e.g., 9/11 Memorial) induce serenity & remembrance
 
 _Fig3.1. Heatmap showing how different materials correlate with emotional responses_
-<img src="sample heat map.png" width="800"/>
+<img src="sample heat map.png" width="500"/>
 
 _Fig3.2. Heatmap showing how different materials correlate with emotional responses_
-<img src="Heat map alt.jpg" width="800"/>
+<img src="Heat map alt.jpg" width="500"/>
 
 
 
@@ -115,7 +115,7 @@ _Fig3.2. Heatmap showing how different materials correlate with emotional respon
 An interactive map guides users through an emotional journey, visualizing patterns of emotions (e.g., peace, grief, awe) along memorial routes. Hover effects reveal overlays of architectural plans and key features like reflecting pools or martyr walls
 
 __Fig4. Interactive Overlaid Map of Emotional Patterns Across Memorial Routes_
-<img src="emotion mapping.jpg" width="800"/>
+<img src="emotion mapping.jpg" width="500"/>
 
 
 
@@ -124,7 +124,7 @@ __Fig4. Interactive Overlaid Map of Emotional Patterns Across Memorial Routes_
 An idea for the case study, where key architectural elements and spaces within a specific memorial (e.g., water pools, towering structures, or engraved walls) is told through the visitor narrative. By connecting these physical features to the emotional journey of visitors, the sketch showcases how the interplay of materials and spatial design shapes reflection, healing, or peace.
 
 __Fig5. Highlighting Emotional Impact Through Key Design Elements of a Memorial_
-<img src="design element.jpg" width="800"/>
+<img src="design element.jpg" width="500"/>
 
 
 # The data
