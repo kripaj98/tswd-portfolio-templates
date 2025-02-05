@@ -75,7 +75,15 @@ A conclusive series of a chart highlighting specific architectural elements inte
 
 
 # Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+Data Visualizations & Their Stories 
+
+1. Geospatial Map: Global Memorials & Emotional Impact
+
+A world map plotting memorials, color-coded by their dominant emotional response.
+This highlights regional differences in memorial design while giving an introduction to dominant emotions evoked.
+
+Fig1. Interactive world map with emotional classifications
+<img src="geo spatial map.jpg" width="800"/>
 
 Text here...
 
