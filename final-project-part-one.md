@@ -78,22 +78,43 @@ A conclusive series of a chart highlighting specific architectural elements inte
 Data Visualizations & Their Stories 
 
 1. Geospatial Map: Global Memorials & Emotional Impact
- A world map plotting memorials, color-coded by their dominant emotional response.
+
+Think of a world map plotting memorials, color-coded by their dominant emotional response.
 This highlights regional differences in memorial design while giving an introduction to dominant emotions evoked.
 
 _Fig1. Interactive world map with emotional classifications_
 <img src="geo spatial map.jpg" width="800"/>
 
 2. Word Cloud: Common Emotional Words in Visitor Testimonials
- Analyzing visitor testimonials reveals frequently used emotional words like “grief,” “reflection,” “overwhelming,” “peaceful”. The scale & proportion of words matched with the color associated helps understand the emotion hierarchy visitors have felt while navigating these spaces, helping establish a direct link between architecture and human emotion.
+
+Analyzing visitor testimonials reveals frequently used emotional words like “grief,” “reflection,” “overwhelming,” “peaceful”. The scale & proportion of words matched with the color associated helps understand the emotion hierarchy visitors have felt while navigating these spaces, helping establish a direct link between architecture and human emotion.
 
 _Fig2. Word cloud of visitor emotional keywords_
 <img src="word cloud.jpg" width="800"/>
 
-3. 
+3. Heatmap: Material Type & Emotional Response Correlation
 
+Stone & metal elements (e.g., Vietnam Veterans Memorial) tend to evoke reflection & honor.
+Concrete structures (e.g., Holocaust Memorial) often create unease & solemnity.
+Water-reflective elements (e.g., 9/11 Memorial) induce serenity & remembrance
 
-Text here...
+_Fig3.1. Heatmap showing how different materials correlate with emotional responses_
+<img src="sample heat map.png" width="800"/>
+
+4. Emotion Map: Navigating the Sentiments of Memorial Pathways
+
+An interactive map guides users through an emotional journey, visualizing patterns of emotions (e.g., peace, grief, awe) along memorial routes. Hover effects reveal overlays of architectural plans and key features like reflecting pools or martyr walls
+
+__Fig4. Interactive Overlaid Map of Emotional Patterns Across Memorial Routes_
+<img src="emotion mapping.jpg" width="800"/>
+
+5. Narrative Comic: Exploring Emotional Spaces in Memorial Design
+
+An idea for the case study, where key architectural elements and spaces within a specific memorial (e.g., water pools, towering structures, or engraved walls) is told through the visitor narrative. By connecting these physical features to the emotional journey of visitors, the sketch showcases how the interplay of materials and spatial design shapes reflection, healing, or peace.
+
+__Fig5. Highlighting Emotional Impact Through Key Design Elements of a Memorial_
+<img src="design element.jpg" width="800"/>
+
 
 # The data
 I plan on leveraging publicly available data sources that provide information on various memorial sites, architectural features, and their emotional impact on visitors while using quantitative and qualitative elements to create a dataset to further help me with the project. The primary data sources focuses on gathering data on the design elements of iconic memorials (e.g., material types, scale, proportions, light usage, and color) from architectural databases and publications. This may include data from sources like the American Institute of Architects (AIA), ArchDaily, and memorial archives that publish detailed case studies and technical specifications of well-known memorials, such as the Vietnam Veterans Memorial, 9/11 Memorial, and Holocaust Memorial as well as scholary materials.Below I have tried to break down how some specific sources could or might contribute:
@@ -170,4 +191,4 @@ In the end, this project is about more than architecture. It’s about how we re
 
 
 ## AI acknowledgements
-_I used Chatgpt and grammarly to help me reframe and concise my writing._
+_I used Chatgpt and grammarly to help me reframe and concise my writing. Also created heat map using midjourney_
