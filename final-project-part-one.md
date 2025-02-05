@@ -80,7 +80,48 @@ A conclusive series of a chart highlighting specific architectural elements inte
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+I plan on leveraging publicly available data sources that provide information on various memorial sites, architectural features, and their emotional impact on visitors while using quantitative and qualitative elements to create a dataset to further help me with the project. The primary data sources focuses on gathering data on the design elements of iconic memorials (e.g., material types, scale, proportions, light usage, and color) from architectural databases and publications. This may include data from sources like the American Institute of Architects (AIA), ArchDaily, and memorial archives that publish detailed case studies and technical specifications of well-known memorials, such as the Vietnam Veterans Memorial, 9/11 Memorial, and Holocaust Memorial as well as scholary materials.Below I have tried to break down how some specific sources could or might contribute:
+
+### 1. Architecture Design & Memorial Features:
+
+To understand the physical and symbolic characteristics of memorials, I will use detailed architectural analyses and design documentation from the following sources:
+
+Data Example: Descriptions of spatial arrangements and symbolic material use (e.g., reflective surfaces symbolizing introspection)._source: https://www.forwardpathway.us/memorial-architecture-emotional-design-and-social-memory-intertwined_
+
+Data Example: Case studies on visitor flow patterns in memorials and their link to emotional immersion._source: https://www.academia.edu/14836368/Memorials_as_Spaces_of_Engagement_Design_Use_and_Meaning_
+
+Data Example: Specific measurements of material finishes and lighting techniques for iconic memorials like the Holocaust Memorial._source: https://www.scientific.net/AMM.174-177.1739_
+
+### 2. Visitor Experience and Emotional Responses:
+
+Understanding visitor emotions is crucial to bridging the gap between design and its psychological effects. The following sources will be used:
+
+Data Example: Emotional responses associated with cool colors (e.g., blue for calmness) and warm tones (e.g., red for grief or anger)._source: https://doi.org/10.23662/FORS-DS-888-2_ (The dataset has been uploaded to the repository)
+
+Data Example: Survey-based data correlating emotional intensity (e.g., awe, sadness) with architectural dimensions (e.g., heights, enclosed spaces)._source: https://pmc.ncbi.nlm.nih.gov/articles/PMC8004070/#notes5_
+
+Data Example: Emotional response datasets linked to angular vs. curved designs in memorials._source: https://www.sciencedirect.com/science/article/pii/S0272494422000470_
+
+### 3. Integrating Design and Emotional Analysis:
+
+To bridge the architectural features with visitor emotions, I will rely on qualitative analysis and synthesis of patterns:
+
+Data Example: Visitor feedback on textures (e.g., rough stone vs. smooth reflective surfaces) and their emotional impact._source: https://www.academia.edu/14836368/Memorials_as_Spaces_of_Engagement_Design_Use_and_Meaning_
+
+Data Example: Pairing of color tones (e.g., black granite vs. translucent glass) with emotional descriptors like “serenity,” “grief,” or “introspection.”_source: https://www.mdpi.com/1660-4601/19/11/6711 | https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1423466/full_
+
+I have created a sample data set
+
+
+
+
+
+
+
+
+
+
+
 
 Text here...
 
