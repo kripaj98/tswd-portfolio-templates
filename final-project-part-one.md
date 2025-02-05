@@ -78,12 +78,20 @@ A conclusive series of a chart highlighting specific architectural elements inte
 Data Visualizations & Their Stories 
 
 1. Geospatial Map: Global Memorials & Emotional Impact
-
-A world map plotting memorials, color-coded by their dominant emotional response.
+ A world map plotting memorials, color-coded by their dominant emotional response.
 This highlights regional differences in memorial design while giving an introduction to dominant emotions evoked.
 
-Fig1. Interactive world map with emotional classifications
+_Fig1. Interactive world map with emotional classifications_
 <img src="geo spatial map.jpg" width="800"/>
+
+2. Word Cloud: Common Emotional Words in Visitor Testimonials
+ Analyzing visitor testimonials reveals frequently used emotional words like “grief,” “reflection,” “overwhelming,” “peaceful”. The scale & proportion of words matched with the color associated helps understand the emotion hierarchy visitors have felt while navigating these spaces, helping establish a direct link between architecture and human emotion.
+
+_Fig2. Word cloud of visitor emotional keywords_
+<img src="word cloud.jpg" width="800"/>
+
+3. 
+
 
 Text here...
 
