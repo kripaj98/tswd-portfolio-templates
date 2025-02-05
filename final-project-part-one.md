@@ -85,12 +85,16 @@ This highlights regional differences in memorial design while giving an introduc
 _Fig1. Interactive world map with emotional classifications_
 <img src="geo spatial map.jpg" width="800"/>
 
+
+
 2. Word Cloud: Common Emotional Words in Visitor Testimonials
 
 Analyzing visitor testimonials reveals frequently used emotional words like “grief,” “reflection,” “overwhelming,” “peaceful”. The scale & proportion of words matched with the color associated helps understand the emotion hierarchy visitors have felt while navigating these spaces, helping establish a direct link between architecture and human emotion.
 
 _Fig2. Word cloud of visitor emotional keywords_
 <img src="word cloud.jpg" width="800"/>
+
+
 
 3. Heatmap: Material Type & Emotional Response Correlation
 
@@ -101,12 +105,16 @@ Water-reflective elements (e.g., 9/11 Memorial) induce serenity & remembrance
 _Fig3.1. Heatmap showing how different materials correlate with emotional responses_
 <img src="sample heat map.png" width="800"/>
 
+
+
 4. Emotion Map: Navigating the Sentiments of Memorial Pathways
 
 An interactive map guides users through an emotional journey, visualizing patterns of emotions (e.g., peace, grief, awe) along memorial routes. Hover effects reveal overlays of architectural plans and key features like reflecting pools or martyr walls
 
 __Fig4. Interactive Overlaid Map of Emotional Patterns Across Memorial Routes_
 <img src="emotion mapping.jpg" width="800"/>
+
+
 
 5. Narrative Comic: Exploring Emotional Spaces in Memorial Design
 
