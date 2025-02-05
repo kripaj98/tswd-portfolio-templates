@@ -90,7 +90,7 @@ Data Example: Descriptions of spatial arrangements and symbolic material use (e.
    _[Memorial Architecture: Emotional Design and Social Memory Intertwined](https://www.forwardpathway.us/memorial-architecture-emotional-design-and-social-memory-intertwined)_
 
 Data Example: Case studies on visitor flow patterns in memorials and their link to emotional immersion.
-   _[ Memorials as Spaces of Engagement: Design, Use, and Meaning (https://www.academia.edu/14836368/Memorials_as_Spaces_of_Engagement_Design_Use_and_Meaning)_
+   _[Memorials as Spaces of Engagement: Design, Use, and Meaning] (https://www.academia.edu/14836368/Memorials_as_Spaces_of_Engagement_Design_Use_and_Meaning)_
 
 Data Example: Specific measurements of material finishes and lighting techniques for iconic memorials like the Holocaust Memorial.
    _[ The Emotional Expression of Memorial Architecture Design](https://www.scientific.net/AMM.174-177.1739)_
@@ -118,7 +118,7 @@ Data Example: Visitor feedback on textures (e.g., rough stone vs. smooth reflect
 Data Example: Pairing of color tones (e.g., black granite vs. translucent glass) with emotional descriptors like “serenity,” “grief,” or “introspection.”
    _[Memorials as Healing Places: A Matrix for Bridging Material Design and Visitor Experience](https://www.mdpi.com/1660-4601/19/11/6711) | [Emotionally-oriented design in museums: a case study of the Jewish Museum Berlin](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1423466/full)_
 
-I have created a sample data set which could help visualise how specific design elements contribute to the emotional impact of memorials. _([Sample dataset](https://docs.google.com/spreadsheets/d/1xGp8JLpCRNKH2Rkh_LOQaMlvzpF_NnmV/edit?usp=drive_link&ouid=113244834183528493745&rtpof=true&sd=true))_
+I have created a sample data set which could help visualise how specific design elements contribute to the emotional impact of memorials. _[Sample dataset](https://docs.google.com/spreadsheets/d/1xGp8JLpCRNKH2Rkh_LOQaMlvzpF_NnmV/edit?usp=drive_link&ouid=113244834183528493745&rtpof=true&sd=true)_
 
 Possibilities could involve:
 
