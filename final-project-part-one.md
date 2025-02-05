@@ -90,7 +90,7 @@ Data Example: Descriptions of spatial arrangements and symbolic material use (e.
    _[Memorial Architecture: Emotional Design and Social Memory Intertwined](https://www.forwardpathway.us/memorial-architecture-emotional-design-and-social-memory-intertwined)_
 
 Data Example: Case studies on visitor flow patterns in memorials and their link to emotional immersion.
-   _[Memorials as Spaces of Engagement: Design, Use, and Meaning] (https://www.academia.edu/14836368/Memorials_as_Spaces_of_Engagement_Design_Use_and_Meaning)_
+   _[Memorials as Spaces of Engagement: Design, Use, and Meaning](https://www.academia.edu/14836368/Memorials_as_Spaces_of_Engagement_Design_Use_and_Meaning)_
 
 Data Example: Specific measurements of material finishes and lighting techniques for iconic memorials like the Holocaust Memorial.
    _[ The Emotional Expression of Memorial Architecture Design](https://www.scientific.net/AMM.174-177.1739)_
@@ -100,7 +100,7 @@ Data Example: Specific measurements of material finishes and lighting techniques
 Understanding visitor emotions is crucial to bridging the gap between design and its psychological effects. The following sources will be used:
 
 Data Example: Emotional responses associated with cool colors (e.g., blue for calmness) and warm tones (e.g., red for grief or anger).
-   _([Dataset](https://drive.google.com/drive/folders/18XykR_IyoEh9t8LJveS367n34xiVEtGU?usp=drive_link))_
+   _[Dataset](https://drive.google.com/drive/folders/18XykR_IyoEh9t8LJveS367n34xiVEtGU?usp=drive_link)_
 
 Data Example: Survey-based data correlating emotional intensity (e.g., awe, sadness) with architectural dimensions (e.g., heights, enclosed spaces).
    _[The Cognitive-Emotional Design and Study of Architectural Space](https://pmc.ncbi.nlm.nih.gov/articles/PMC8004070/#notes5)_
