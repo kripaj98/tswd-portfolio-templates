@@ -87,7 +87,7 @@ I plan on leveraging publicly available data sources that provide information on
 To understand the physical and symbolic characteristics of memorials, I will use detailed architectural analyses and design documentation from the following sources:
 
 Data Example: Descriptions of spatial arrangements and symbolic material use (e.g., reflective surfaces symbolizing introspection).
-   _https://www.forwardpathway.us/memorial-architecture-emotional-design-and-social-memory-intertwined_
+   _([Memorial Architecture: Emotional Design and Social Memory Intertwined](https://www.forwardpathway.us/memorial-architecture-emotional-design-and-social-memory-intertwined))_
 
 Data Example: Case studies on visitor flow patterns in memorials and their link to emotional immersion.
    _https://www.academia.edu/14836368/Memorials_as_Spaces_of_Engagement_Design_Use_and_Meaning_
