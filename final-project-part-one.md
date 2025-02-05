@@ -53,7 +53,7 @@ A brief overview of 2/3 popular memorials, as a horizontal scroll bar by highlig
 ## Emotional journey of Memorial:
 Exploration of the emotions people experience when visiting memorials: grief, catharsis, solidarity, more as an emotional map overlapped while moving across different spaces (over a movement diagram).
 
-Categorising them into 3 categories of architecture; color, scale and proportion, elements and materiality and drawing connections with the emotions evoked. For eg.:
+Categorising them into 3 parts; architecture; color, scale and proportion, elements and materiality and drawing connections with the emotions evoked. For eg.:
 
    1. Space and Scale: 
    _How the size of a memorial can evoke feelings of awe, humility, or isolation. Like the large scale of the Vietnam Veterans Memorial creates a sense of reverence and solemnity._
@@ -85,6 +85,8 @@ I plan on leveraging publicly available data sources that provide information on
 ### 1. Architecture Design & Memorial Features:
 
 To understand the physical and symbolic characteristics of memorials, I will use detailed architectural analyses and design documentation from the following sources:
+
+Data Example: The dataset from the National Park Service's list of memorials across the U.S. provides geospatial data is critical for mapping the distribution of significant memorials using GIS tools. Plotting these locations would allow for a visual exploration of trends in memorial architecture, revealing how or cultural contexts/open spaces influence design. _[List of Monuments & Memorials](https://www.nps.gov/subjects/monuments/visit.htm)_  
 
 Data Example: Descriptions of spatial arrangements and symbolic material use (e.g., reflective surfaces symbolizing introspection).
    _[Memorial Architecture: Emotional Design and Social Memory Intertwined](https://www.forwardpathway.us/memorial-architecture-emotional-design-and-social-memory-intertwined)_
