@@ -96,7 +96,7 @@ Data Example: Specific measurements of material finishes and lighting techniques
 
 Understanding visitor emotions is crucial to bridging the gap between design and its psychological effects. The following sources will be used:
 
-Data Example: Emotional responses associated with cool colors (e.g., blue for calmness) and warm tones (e.g., red for grief or anger)._source: https://doi.org/10.23662/FORS-DS-888-2_ (The dataset has been uploaded to the repository)
+Data Example: Emotional responses associated with cool colors (e.g., blue for calmness) and warm tones (e.g., red for grief or anger)._source: https://doi.org/10.23662/FORS-DS-888-2_ ([Dataset](https://drive.google.com/drive/folders/18XykR_IyoEh9t8LJveS367n34xiVEtGU?usp=drive_link))
 
 Data Example: Survey-based data correlating emotional intensity (e.g., awe, sadness) with architectural dimensions (e.g., heights, enclosed spaces)._source: https://pmc.ncbi.nlm.nih.gov/articles/PMC8004070/#notes5_
 
@@ -110,28 +110,14 @@ Data Example: Visitor feedback on textures (e.g., rough stone vs. smooth reflect
 
 Data Example: Pairing of color tones (e.g., black granite vs. translucent glass) with emotional descriptors like “serenity,” “grief,” or “introspection.”_source: https://www.mdpi.com/1660-4601/19/11/6711 | https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1423466/full_
 
-I have created a sample data set(wip) [sample data](memorial_architecture_data set 1.xlsx)
+I have created a sample data set(wip) _https://docs.google.com/spreadsheets/d/1xGp8JLpCRNKH2Rkh_LOQaMlvzpF_NnmV/edit?usp=drive_link&ouid=113244834183528493745&rtpof=true&sd=true_ which could help visualise how specific design elements contribute to the emotional impact of memorials. Possibilities could involve:
 
+1. Columns like "Material Type" and "Color Scheme" can be analyzed to identify common patterns across different memorials (e.g., granite and neutral tones for solemnity) or data on "Memorial Scale" or "Proportions" can be linked to emotional intensity—larger scales may evoke awe, while smaller, intimate spaces may inspire reflection.
+2. Cross-analyze visitor feedback with architectural features. For instance, see if reflective materials like polished stone or water features correlate with feelings of introspection or healing.
 
+The Excel sheet will serve as a foundational dataset to back up my analysis of design elements and emotional impacts. It can help create specific, data-driven visualizations that enhance the storytelling aspect of my project, such as comparative analyses, emotional heatmap, and interactive visitor sentiment breakdowns. 
 
-
-
-
-
-
-
-
-
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+_I am still in touch with 
 
 # Method and medium
 
