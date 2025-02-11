@@ -44,6 +44,8 @@ Results:
 
 _I interviewed one arts management and entertainment management master student, both woman around 25 years old with not much idea of the genAI tools compared in this data._
 
+<img src="Table interview.png" width="600" style="margin-top: 20px; margin-bottom: 20px;"/> 
+
 
 Synthesis and Takeaways: 
 
