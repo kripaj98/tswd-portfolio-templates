@@ -2,8 +2,6 @@
 
 # Critique and Redesign
 
-Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently.
-
 ## Step one: The Visualization
 
 _[link to the original data visualization](https://data.world/makeovermonday/generative-ai-search-trends-in-the-united-states)_  
