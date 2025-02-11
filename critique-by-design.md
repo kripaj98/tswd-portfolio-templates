@@ -30,46 +30,41 @@ I found myself struggling with this step, trying to find a way to represent all 
 <img src="Data-viz sketch 1.png" width="600"/> 
 I then experimented with a pie chart, thinking it made sense since the three AI tools’ search trends always summed to 100% within each state. But with so many states, the scale became overwhelming, making it hard to interpret.
 
+
 <img src="Data-viz sketch 2.png" width="1000"/>
 A grouped bar chart seemed more promising, offering better clarity, yet something still felt off. I even tried adding hover interactions to reveal percentages, since spacing and scale remained tricky for static numbers. I worked with Google Colab to explore different possibilities, coding out multiple versions and testing variations since I wanted to understand how 51 states viz would look and that was easier through this medium than hand sketch. Each attempt brought me closer to understanding what worked and what didn’t but the perfect balance still felt just out of reach.
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
+The objective was to understand how others interpreted the data, what stood out, and what improvements could enhance clarity and usability.
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+_I interviewed one arts management and entertainment management master student, both woman around 25 years old with not much idea of the genAI tools compared in this data._
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+Synthesis and Takeaways: 
 
-Synthesis: 
+One of the strongest takeaways from the feedback was the need for a clearer narrative. While the visualization contained valuable data, it lacked an immediate takeaway, making it difficult for viewers to extract insights at a glance. Instead of presenting all 51 states together, breaking the data into separate graphs based on dominant AI tools or highlighting key trends could improve clarity. Think of what is it trying to show? 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Another key insight was that the current structure made it hard to compare trends effectively. Interviewees suggested separating the visualization in a way that better illustrates differences, either by grouping states where a particular tool dominates or by structuring the data into distinct comparisons. This helped me realize that not every state needs to be represented; instead, the focus should be on making the data more digestible and insightful. What is the insightful information?
+
+The feedback also reinforced the importance of defining the audience. Without a clear understanding of whether the visualization was for AI researchers, marketing professionals, or general users, for interest of Midjourney, DALL-E or Stable Diffusion  it was hard to tailor the design for maximum impact. By refining the approach and focusing on the most relevant trends, the visualization could better communicate its insights, making it more actionable and engaging.
+
+_Design Changes for the Final Redesign :_
+
+_Based on this feedback, the final redesign will focus on simplifying the structure and emphasizing key insights rather than overwhelming viewers with excessive data. Instead of displaying all 51 states, the visualization will focus on the most relevant trends, mostly by separating graphs based on the dominant AI tool in each region or by highlighting the top search trends for each tool._
+
+_Additionally, ordering and grouping will be adjusted to make the comparisons more intuitive. Rather than an arbitrary arrangement, states may be ordered by search volume or grouped into meaningful categories that highlight trends more clearly._
+
+_By refining the context and audience focus, the visualization will aim to tell a story rather than just display numbers. These changes will ensure that viewers, whether interested in Midjourney, DALL·E, or Stable Diffusion, can quickly grasp key insights and their dominant standing effectively._
+
+_I am thinking something like 3 different charts each focusing on the key stakeholder(One of 3 Gen AI) to gague their top states for the google trend and it's positioning in comparison, so it is more specific and driven by a narrative._
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. 
 
-## References
-_List any references you used here._
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
