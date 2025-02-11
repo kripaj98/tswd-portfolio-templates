@@ -30,6 +30,7 @@ I found myself struggling with this step, trying to find a way to represent all 
 
 <img src="Data-viz sketch 1.png" width="600"/> 
 
+
 I then experimented with a pie chart, thinking it made sense since the three AI tools’ search trends always summed to 100% within each state. But with so many states, the scale became overwhelming, making it hard to interpret.
 
 
