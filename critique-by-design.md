@@ -67,11 +67,28 @@ _I am thinking something like 3 different grouped bar charts each focusing on th
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. 
+In the final redesign of my data visualization, I focused on tailoring each graph to address a specific narrative that would resonate with the intended audience. The three individual bar charts each focus on a different generative AI model; Midjourney, DALL-E, and Stable Diffusion focusing on the top 10 U.S. states where each tool has the highest google search trends. These visualizations were created with the goal of providing clear insights into the geographic distribution of each AI tool’s popularity within US. For each model, the color bar charts highlight the most relevant states (color coded according to each Gen AI model), allowing users to easily identify where each tool is most in demand. This narrative is useful for marketers seeking to understand regional trends and for AI companies analyzing their competitors or understanding where to target there premium models say. 
+
+
+The choice of bar chart with 100% length format across all graphs was deliberate, as it is an intuitive way to display categorical data(each summing to 100% per state), making it easy for the audience to compare search trends across states. I used grey tones for competitor to keep the focus on the focused AI tool bar color coded, ensuring the focused gen AI data remains the central element of attention. The use of distinct color coding for each AI tool, alongside consistent scale and proportion, helps users quickly understand the relative importance of each state’s search interest. These changes allowed the final design to effectively communicate the story of generative AI search trends in a focused, accessible, and engaging manner, hopefully offering valuable insights to the target audience.
+
+
+This is followed by a comprehensive chart at the end,the goal was to provide a high-level comparison of all three generative AI tools, Midjourney, DALL·E, and Stable Diffusion by focusing on the top five states for each tool, to understand if there is a pattern emerging. This approach allowed for a broader understanding of how these tools perform relative to one another in key regions, thus giving a sense of trend across all the regions on average.
 
 <img src="Midjourney vs OTHER (2).png" width="600"/> 
+
+<br>For the Midjourney bar chart, I aimed to highlight the states where Midjourney is most popular. This chart targets marketers and AI companies who want to understand where Midjourney is gaining traction and how it compares in regional popularity to other tools.
+
+
 <img src="DALL-E vs OTHER (2).png" width="600"/> 
+
+<br>The DALL·E bar chart provides a similar breakdown but for DALL·E, focusing on regions where it leads. This chart helps AI researchers and companies compare DALL·E's reach across states, offering insights into its competitive position.
+
+
 <img src="Stable diffusion vs OTHER (3).png" width="600"/> 
+
+<br>For the Stable Diffusion bar chart, the goal was to show which states have the highest search interest for Stable Diffusion. It allows stakeholders to analyze Stable Diffusion’s market penetration and geographic presence relative to the other tools.
+
 
 <div style="min-height:387px" id="datawrapper-vis-VvpRU">
   <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/VvpRU/embed.js" charset="utf-8" data-target="#datawrapper-vis-VvpRU"></script>
@@ -79,6 +96,10 @@ _Include and describe your final solution here. It's also a good idea to summari
     <img src="https://datawrapper.dwcdn.net/VvpRU/full.png" alt="" />
   </noscript>
 </div>
+
+This graph serves a broader audience, helping them to quickly understand the dominance of each AI tool across regions. The interactivity allows for precise data exploration, letting users hover over bars to view exact percentages and dive deeper into the trends. I have deliberately used a grouped bar here, to show the inter-relation in a more visual manner among 3 tools across the top selected states. _One of the most striking insights from this visualization was how Midjourney stood out even when considering the top states for all three tools, Midjourney consistently had a strong presence, reinforcing its dominance in generative AI search trends._
+
+Also the color code is similar for each tool, to continue the visual language across, and ease of readability. This final visualization successfully bridges the gap between granular regional insights and a macro-level understanding of AI search dominance, making it an essential start reference for those tracking competitor generative AI adoption trends while understanding their postion.
 
 ## AI acknowledgements
 _I used GenAI(Copilot) to help me with ode for Google Colab and paraphrasing some parts like the summary from google form, as well as grammarly for proofreading my writing._
