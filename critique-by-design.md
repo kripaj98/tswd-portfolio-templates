@@ -69,7 +69,12 @@ _Include and describe your final solution here. It's also a good idea to summari
 <img src="DALL-E vs OTHER (2).png" width="800"/> 
 <img src="Stable diffusion vs OTHER (3).png" width="800"/> 
 
-<iframe title="Data Visualization" aria-label="Chart" id="datawrapper-vis-VvpRU" src="https://datawrapper.dwcdn.net/VvpRU/" scrolling="no" frameborder="0" style="width: 100%; height: 400px;" ></iframe>
+<div style="min-height:387px" id="datawrapper-vis-VvpRU">
+  <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/VvpRU/embed.js" charset="utf-8" data-target="#datawrapper-vis-VvpRU"></script>
+  <noscript>
+    <img src="https://datawrapper.dwcdn.net/VvpRU/full.png" alt="" />
+  </noscript>
+</div>
 
 ## AI acknowledgements
 _I used GenAI(Copilot) to help me with ode for Google Colab and paraphrasing some parts like the summary from google form, as well as grammarly for proofreading my writing._
