@@ -69,7 +69,7 @@ _Include and describe your final solution here. It's also a good idea to summari
 <img src="DALL-E vs OTHER (2).png" width="800"/> 
 <img src="Stable diffusion vs OTHER (3).png" width="800"/> 
 
-<iframe title="Midjourney Leading among Google Search Trends between 3 Gen AI Models across US Regions (2022-24)" aria-label="Grouped Columns" id="datawrapper-chart-VvpRU" src="https://datawrapper.dwcdn.net/VvpRU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="387" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+<script type='text/javascript'><iframe title="Midjourney Leading among Google Search Trends between 3 Gen AI Models across US Regions (2022-24)" aria-label="Grouped Columns" id="datawrapper-chart-VvpRU" src="https://datawrapper.dwcdn.net/VvpRU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="387" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
 ## AI acknowledgements
