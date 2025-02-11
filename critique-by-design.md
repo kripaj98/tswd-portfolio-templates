@@ -65,9 +65,9 @@ _I am thinking something like 3 different grouped bar charts each focusing on th
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. 
 
-<img src="Midjourney vs OTHER (2).png" width="500"/> 
-<img src="DALL-E vs OTHER (2).png" width="500"/> 
-<img src="Stable diffusion vs OTHER (3).png" width="500"/> 
+<img src="Midjourney vs OTHER (2).png" width="800"/> 
+<img src="DALL-E vs OTHER (2).png" width="800"/> 
+<img src="Stable diffusion vs OTHER (3).png" width="800"/> 
 <img src="Comprehensive study.png" width="800"/> 
 
 ## AI acknowledgements
