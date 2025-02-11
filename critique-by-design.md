@@ -28,7 +28,7 @@ There are multiple primary audience currently - AI researchers, marketing teams,
 I found myself struggling with this step, trying to find a way to represent all 51 states in a single visualization while keeping it clear and meaningful. At first, I started stripping away elements from the original viz, removing interaction, the map and so on but that only led to another challenge, how should the states be arranged? Should I group them by geographic region, or maybe order them based on Midjourney's dominance, since it had the highest average trend share? Neither option felt entirely satisfying.
 
 
-<img src="Data-viz sketch 1.png" width="600"/> 
+<img src="Data-viz sketch 1.png" width="600" style="margin-top: 20px; margin-bottom: 20px;"/> 
 
 
 I then experimented with a pie chart, thinking it made sense since the three AI tools’ search trends always summed to 100% within each state. But with so many states, the scale became overwhelming, making it hard to interpret.
