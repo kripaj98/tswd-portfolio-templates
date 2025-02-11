@@ -77,17 +77,17 @@ This is followed by a comprehensive chart at the end,the goal was to provide a h
 
 <img src="Midjourney vs OTHER (2).png" width="600"/> 
 
-<br>For the Midjourney bar chart, I aimed to highlight the states where Midjourney is most popular. This chart targets marketers and AI companies who want to understand where Midjourney is gaining traction and how it compares in regional popularity to other tools.
+For the Midjourney bar chart, I aimed to highlight the states where Midjourney is most popular. This chart targets marketers and AI companies who want to understand where Midjourney is gaining traction and how it compares in regional popularity to other tools.<br>
 
 
 <img src="DALL-E vs OTHER (2).png" width="600"/> 
 
-<br>The DALL·E bar chart provides a similar breakdown but for DALL·E, focusing on regions where it leads. This chart helps AI researchers and companies compare DALL·E's reach across states, offering insights into its competitive position.
+The DALL·E bar chart provides a similar breakdown but for DALL·E, focusing on regions where it leads. This chart helps AI researchers and companies compare DALL·E's reach across states, offering insights into its competitive position.<br>
 
 
 <img src="Stable diffusion vs OTHER (3).png" width="600"/> 
 
-<br>For the Stable Diffusion bar chart, the goal was to show which states have the highest search interest for Stable Diffusion. It allows stakeholders to analyze Stable Diffusion’s market penetration and geographic presence relative to the other tools.
+For the Stable Diffusion bar chart, the goal was to show which states have the highest search interest for Stable Diffusion. It allows stakeholders to analyze Stable Diffusion’s market penetration and geographic presence relative to the other tools.<br>
 
 
 <div style="min-height:387px" id="datawrapper-vis-VvpRU">
