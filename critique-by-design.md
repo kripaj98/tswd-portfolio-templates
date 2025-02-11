@@ -31,10 +31,11 @@ I found myself struggling with this step, trying to find a way to represent all 
 <img src="Data-viz sketch 1.png" width="600" style="margin-top: 20px; margin-bottom: 20px;"/> 
 
 
+
 I then experimented with a pie chart, thinking it made sense since the three AI tools’ search trends always summed to 100% within each state. But with so many states, the scale became overwhelming, making it hard to interpret.
 
 
-<img src="Data-viz sketch 2.png" width="1000"/>
+<img src="Data-viz sketch 2.png" width="1000" style="margin-top: 20px; margin-bottom: 20px;"/>
 
 A grouped bar chart seemed more promising, offering better clarity, yet something still felt off. I even tried adding hover interactions to reveal percentages, since spacing and scale remained tricky for static numbers. I worked with Google Colab to explore different possibilities, coding out multiple versions and testing variations since I wanted to understand how 51 states viz would look and that was easier through this medium than hand sketch. Each attempt brought me closer to understanding what worked and what didn’t but the perfect balance still felt just out of reach.
 
