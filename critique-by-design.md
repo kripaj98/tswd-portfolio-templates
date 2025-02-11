@@ -65,9 +65,9 @@ _I am thinking something like 3 different grouped bar charts each focusing on th
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. 
 
-<img src="Midjourney vs OTHER (2).png" width="800"/> 
-<img src="DALL-E vs OTHER (2).png" width="800"/> 
-<img src="Stable diffusion vs OTHER (3).png" width="800"/> 
+<img src="Midjourney vs OTHER (2).png" width="600"/> 
+<img src="DALL-E vs OTHER (2).png" width="600"/> 
+<img src="Stable diffusion vs OTHER (3).png" width="600"/> 
 
 <div style="min-height:387px" id="datawrapper-vis-VvpRU">
   <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/VvpRU/embed.js" charset="utf-8" data-target="#datawrapper-vis-VvpRU"></script>
