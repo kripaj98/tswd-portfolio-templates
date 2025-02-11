@@ -59,13 +59,17 @@ _Additionally, ordering and grouping will be adjusted to make the comparisons mo
 
 _By refining the context and audience focus, the visualization will aim to tell a story rather than just display numbers. These changes will ensure that viewers, whether interested in Midjourney, DALL·E, or Stable Diffusion, can quickly grasp key insights and their dominant standing effectively._
 
-_I am thinking something like 3 different charts each focusing on the key stakeholder(One of 3 Gen AI) to gague their top states for the google trend and it's positioning in comparison, so it is more specific and driven by a narrative._
+_I am thinking something like 3 different grouped bar charts each focusing on the key stakeholder(One of 3 Gen AI) to gague their top 10 states for the google trend search and it's positioning in comparison, so it is more specific and driven by a single narrative and maybe a comprehensive understanding among those states at the end._
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. 
 
+<img src="Midjourney vs OTHER (2).png" width="500"/> 
+<img src="DALL-E vs OTHER (2).png" width="500"/> 
+<img src="Stable diffusion vs OTHER (3).png" width="500"/> 
+<img src="Comprehensive study.png" width="800"/> 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_I used GenAI(Copilot) to help me with ode for Google Colab and paraphrasing some parts like the summary from google form, as well as grammarly for proofreading my writing._
 
