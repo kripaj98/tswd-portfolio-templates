@@ -85,5 +85,5 @@ Zhang, Z., Lu, J., & Zhang, X. (2024b). Emotionally-oriented design in museums: 
 Zhu, R. R. (2012). The Emotional Expression of Memorial Architecture Design. Applied Mechanics and Materials, 174–177, 1739–1742. https://doi.org/10.4028/www.scientific.net/AMM.174-177.1739_</br>
 
 ## AI acknowledgements
-_I used help for python code to develop a data viz through google colab, while I used AI to para phrase parts of writeup on github._
+_I used help of gpt for python code to develop a data viz through google colab, while I used AI grammarly to paraphrase parts of the writeup on github._
 
