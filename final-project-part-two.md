@@ -56,7 +56,7 @@ Text here!
 Text here!
 
 ## References
-_Colors and Emotions in Data Visualization. (n.d.). Cédric Scherer. Retrieved February 4, 2025, from https://www.cedricscherer.com/2021/06/08/colors-and-emotions-in-data-visualization/
+_Colors and Emotions in Data Visualization. (n.d.). Cédric Scherer. Retrieved February 4, 2025, from https://www.cedricscherer.com/2021/06/08/colors-and-emotions-in-data-visualization/</br>
 Daniel Libeskind’s Jewish Museum is a “foreboding experience.” (2022, May 20). Dezeen. https://www.dezeen.com/2022/05/20/daniel-libeskind-jewish-museum-deconstructivist-architecture/
 FeelingBlue: A Corpus for Understanding the Emotional Connotation of Color in Context | Transactions of the Association for Computational Linguistics | MIT Press. (n.d.). Retrieved February 4, 2025, from https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00540/115241/FeelingBlue-A-Corpus-for-Understanding-the
 Gallery of AD Classics: Jewish Museum, Berlin / Studio Libeskind - 10. (n.d.). ArchDaily. Retrieved February 17, 2025, from https://www.archdaily.com/91273/ad-classics-jewish-museum-berlin-daniel-libeskind/5afa5546f197cc59f700000a-ad-classics-jewish-museum-berlin-daniel-libeskind-photo
