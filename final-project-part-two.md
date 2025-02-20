@@ -1,7 +1,7 @@
 | [home page](README.md) | [critique by design](critique-by-design.md) | [General Government Debt](controlling-color) | [Final project I](final-project-part-one.md)| [final project III](final-project-part-three.md) |
 
 # Wireframes / storyboards
-## A draft of shorthand will better understand it, however I am attaching a short writeup for overall understanding;<br/>
+> A draft of shorthand will better explain it, however I am attaching a short writeup for overall understanding;<br/>
 ## Title Page: Does Architecture Evoke Emotion? Emotion Mapping of Memorial Spaces</br>
 
 ## Setting the Background: 
