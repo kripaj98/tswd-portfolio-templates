@@ -2,6 +2,7 @@
 
 # Wireframes / storyboards
 > A draft of shorthand will better explain it, however I am attaching a short writeup for overall understanding;<br/>
+[Link to shorthand](https://preview.shorthand.com/aPKwnLJOjt38fi1e/responsive/desktop)
 ## Title Page: Does Architecture Evoke Emotion? Emotion Mapping of Memorial Spaces</br>
 
 ## Setting the Background: 
