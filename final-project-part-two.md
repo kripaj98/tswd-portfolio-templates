@@ -58,21 +58,7 @@ I interviewed 3 individuals with computer science, public policy and entertainme
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+<img src="part 2 t3.png" width="500"/>
 
 ## References
 _Colors and Emotions in Data Visualization. (n.d.). Cédric Scherer. Retrieved February 4, 2025, from https://www.cedricscherer.com/2021/06/08/colors-and-emotions-in-data-visualization/</br>
