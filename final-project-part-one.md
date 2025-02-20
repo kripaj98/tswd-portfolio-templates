@@ -1,4 +1,4 @@
-| [home page](README.md) | [critique by design](critique-by-design.md) | [General Government Debt](controlling-color)| [final project II](final-project-part-three.md) | [final project III](final-project-part-three.md) |
+| [home page](README.md) | [critique by design](critique-by-design.md) | [General Government Debt](controlling-color)| [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # "Is Architecture Responsible for Evoking Emotions: Through Emotion Mapping of Memorial Spaces"
 
