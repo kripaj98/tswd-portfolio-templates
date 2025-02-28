@@ -1,9 +1,8 @@
 | [home page](README.md) | [critique by design](critique-by-design.md) | [General Government Debt](controlling-color)| [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) |
 
-# The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+# Does Architecture Evoke Emotion? Emotion Mapping of Memorial Spaces
+> Final Data Story;<br/>
+[Link to website](https://preview.shorthand.com/aPKwnLJOjt38fi1e/responsive/desktop)
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
@@ -21,7 +20,7 @@ Text here!
 Text here!
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+> All references are available on the main website. In particular, I want to highlight the role of TripAdvisor testimonials in shaping my understanding of the emotional impact of these memorials. Alongside these firsthand visitor experiences, I have extensively referenced scholarly materials to build a well-rounded dataset that informs this story. Please find the attached excel which is the base data developed for this analysis and storytelling.
 
 ## AI acknowledgements
 > If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
