@@ -20,12 +20,11 @@ Text here!
 Text here!
 
 ## References
-> All references are available on the main website. In particular, I want to highlight the role of TripAdvisor testimonials in shaping my understanding of the emotional impact of these memorials. Alongside these firsthand visitor experiences, I have extensively referenced scholarly materials to build a well-rounded dataset that informs this story. Please find the attached excel which is the base data developed for this analysis and storytelling.
+> All references are available on the main website. In particular, I want to highlight the role of TripAdvisor testimonials in shaping my understanding of the emotional impact of these memorials. Alongside these firsthand visitor experiences, I have extensively referenced scholarly materials to build a well-rounded dataset that informs this story.
+> Please find the attached excel which is the base data developed for this analysis and storytelling [Data Set](Final Data Set base.xlsx)
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+> I used chatgpt to help with python coding for the googlecolab data viz table created. Other than that I used copilot for paraphrasing my CTA and grammarly for grammar check.
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
