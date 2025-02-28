@@ -16,13 +16,10 @@ All the things - obviously.
 I am still working on designing a structure for this part and it would be further enhanced as we progress through the course. Here is a basic list:
 
 ## Assignment 1: [General Government Debt](controlling-color.md)
-In progress...
 
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
-In progress... 
 
 ## Final project
-In progress... 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
