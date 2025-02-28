@@ -13,17 +13,18 @@ All the things - obviously.
 3. Building a structured method to analyze and critique data visualizations to help me with designing strategic solutions
 
 # Portfolio
-I am still working on designing a structure for this part and it would be further enhanced as we progress through the course. Here is a basic list:
+Here is a basic list of the projects included:
 
 ## Assignment 1: [General Government Debt](controlling-color.md)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 ## Final project
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+[Part I](final-project-part-one.md)
+[Part II](final-project-part-two.md)
+[Part III](final-project-part-three.md)
 
+# Thank you!
 ---
 
 
