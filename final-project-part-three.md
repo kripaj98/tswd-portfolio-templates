@@ -21,7 +21,7 @@ Text here!
 
 ## References
 > All references are available on the main website. In particular, I want to highlight the role of TripAdvisor testimonials in shaping my understanding of the emotional impact of these memorials. Alongside these firsthand visitor experiences, I have extensively referenced scholarly materials to build a well-rounded dataset that informs this story.
-> Please find the attached excel which is the base data developed for this analysis and storytelling [Data Set](Final Data Set base.csv)
+> Please find the attached excel which is the base data developed for this analysis and storytelling [Data Set](https://github.com/kripaj98/tswd-portfolio-templates/blob/main/Final%20Data%20Set%20base.csv)
 
 ## AI acknowledgements
 > I used chatgpt to help with python coding for the googlecolab data viz table created. Other than that I used copilot for paraphrasing my CTA and grammarly for grammar check.
